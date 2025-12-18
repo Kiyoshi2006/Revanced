@@ -1,6 +1,6 @@
 {
-  "version": "v8.25.54 (patches 5.46.0)",
-  "versionCode": 14,
-  "zipUrl": "https://github.com/Kiyoshi2006/Revanced/releases/download/14/music-revanced-magisk-v8.25.54-arm-v7a.zip",
+  "version": "v8.25.54 (patches 5.47.0)",
+  "versionCode": 15,
+  "zipUrl": "https://github.com/Kiyoshi2006/Revanced/releases/download/15/music-revanced-magisk-v8.25.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Kiyoshi2006/Revanced/update/build.md"
 }
